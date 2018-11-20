@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class main : MonoBehaviour
 {
-    public int i = 3;
+    public int i = 677;
 
     public bool yeah;
 
