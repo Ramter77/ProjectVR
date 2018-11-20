@@ -6,7 +6,9 @@ public class main : MonoBehaviour
 {
     public int i = 677;
 
-    public bool rr3erwerwf;
+    public bool yeah34536;
+
+    public int h;
 
     //test3
 
