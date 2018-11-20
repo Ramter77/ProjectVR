@@ -4,9 +4,10 @@ using UnityEngine;
 
 public class main : MonoBehaviour
 {
-    public int test;
+    public int i = 3;
 
-    //test it you twat or dont
+    //test3
+
     // Start is called before the first frame update
     void Start()
     {
