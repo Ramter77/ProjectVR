@@ -6,7 +6,7 @@ public class main : MonoBehaviour
 {
     public int test;
 
-    //test it you twat
+    //test it you twat or dont
     // Start is called before the first frame update
     void Start()
     {
