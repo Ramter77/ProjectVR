@@ -3,13 +3,10 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class main : MonoBehaviour
-
-
 {
-
     public int test;
 
-    
+    //test it you twat
     // Start is called before the first frame update
     void Start()
     {
