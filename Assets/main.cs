@@ -6,6 +6,8 @@ public class main : MonoBehaviour
 {
     public int i = 3;
 
+    public bool yeah;
+
     //test3
 
     // Start is called before the first frame update
